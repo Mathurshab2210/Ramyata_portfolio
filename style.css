@@ -75,7 +75,7 @@ ul {
 h3 {
   color: #ffb300;
   margin: 10px 0;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-size: 1.25em;
 }
 
@@ -156,9 +156,11 @@ h3 {
 .resume .base .profile .info .job {
   margin-top: 10px;
   margin-bottom: 0;
-  font-size: 1.5em;
+  font-size: 1em;
   text-transform: uppercase;
   color: #283593;
+  font-weight: bolder;
+  
 }
 .resume .base .contact div {
   line-height: 24px;
